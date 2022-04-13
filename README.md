@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NihalAggarwal
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning to integrate Lachine Learning models in Android Applications
+- 💞️ I’m looking to collaborate on Figma for designing the prototypes for android apps
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/nihal-aggarwal/
